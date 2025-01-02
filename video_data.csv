@@ -1,0 +1,9 @@
+title,url,duration_minutes,target_persona,topics,difficulty_level
+"Introduction to AI for Business Leaders","https://www.youtube.com/watch?v=example1",30,"leader","AI basics, business strategy, ROI","beginner"
+"Machine Learning Fundamentals for Developers","https://www.youtube.com/watch?v=example2",45,"developer","Python, ML basics, algorithms","beginner"
+"AI Project Management Best Practices","https://www.youtube.com/watch?v=example3",35,"manager","project planning, team management, AI implementation","intermediate"
+"Deep Learning with PyTorch","https://www.youtube.com/watch?v=example4",60,"developer","PyTorch, neural networks, deep learning","advanced"
+"AI Strategy and Digital Transformation","https://www.youtube.com/watch?v=example5",40,"leader,manager","digital transformation, AI adoption, change management","intermediate"
+"Building AI Products","https://www.youtube.com/watch?v=example6",50,"manager,developer","product development, ML ops, deployment","intermediate"
+"AI Ethics and Governance","https://www.youtube.com/watch?v=example7",25,"leader,manager","ethics, compliance, risk management","beginner"
+"Advanced Neural Network Architectures","https://www.youtube.com/watch?v=example8",55,"developer","CNN, RNN, transformers","advanced"
